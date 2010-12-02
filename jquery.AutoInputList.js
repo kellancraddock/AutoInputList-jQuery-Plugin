@@ -1,8 +1,8 @@
 /**
 * autoinputlist - A jQuery plugin
-* Description: This plugin creates faux autoinputlistes
+* Description: This plugin creates faux autoinputlists
 * Author: Kellan Craddock
-* @argument {object} a jquery object of elements to turn into autoinputlistes
+* @argument {object} a jquery object of elements to turn into autoinputlists
 * @returns false
 */
 
